@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8D0BEB57-B989-4287-93A9-47F7E66F6750</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Carhub</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A32F77C6E8756A7B8B93DC303FEE801C479FF7B4</key>
+		<string>https://github.com/HamApps/Autohub.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Carhub.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A32F77C6E8756A7B8B93DC303FEE801C479FF7B4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HamApps/Autohub.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A32F77C6E8756A7B8B93DC303FEE801C479FF7B4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A32F77C6E8756A7B8B93DC303FEE801C479FF7B4</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A32F77C6E8756A7B8B93DC303FEE801C479FF7B4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Autohub</string>
+		</dict>
+	</array>
+</dict>
+</plist>
